@@ -1,0 +1,38 @@
+body{
+    background-color: #F7FFF7;
+}
+
+.header_div{
+    background-color: #1A535C;
+    font-family: 'Madimi', 'cursive';
+    color:#F7FFF7;
+    text-align: center;
+}
+
+.header_div p{
+    font-family: 'Madimi', 'cursive';
+    color:#F7FFF7;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Madimi';
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:#FFD93D;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:#4ECDC4;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px #1A535C;
+}
